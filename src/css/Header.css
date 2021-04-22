@@ -1,0 +1,31 @@
+.logo
+{
+    width: 70px;
+    margin-left: 5%;
+}
+.logo-text
+{
+    font-size: 20px;
+    width: 350px;
+    line-height: 70px;
+    padding-left: 2%;
+    font-style: italic;
+    text-decoration: underline;
+    color: #007cc3;
+}
+#navbarSupportedContent
+{
+    margin-left: 10%;
+}
+.ml-50
+{
+    margin-left: 40%;
+}
+@media all and (max-width:600px)
+{
+    .logo-text{
+        font-size: 15px;
+        padding-left: initial;
+        text-decoration: none;
+    }
+}

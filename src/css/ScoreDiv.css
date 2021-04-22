@@ -1,0 +1,12 @@
+.ml-2 {
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+@media all and (max-width:600px) {
+    .ml-2 {
+        margin-left: 1%;
+        margin-top: 0.5%;
+        font-size: 18px;
+    }
+}
